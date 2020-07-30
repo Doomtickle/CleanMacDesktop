@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# Clean desktop
+ls ~/Desktop | grep 'Screen Shot' > ~/screenshots.txt
+while IFS= read -r line
+do
+    mv ~/Desktop/"$line" ~/Desktop/Screenshots
+done < ~/screenshots.txt
+
+rm ~/screenshots.txt
+
