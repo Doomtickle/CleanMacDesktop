@@ -3,6 +3,7 @@
 
 ### Usage
 
+Download it
 `cd ~ && curl -O https://raw.githubusercontent.com/Doomtickle/CleanMacDesktop/master/.cleandesktop`
 
 
