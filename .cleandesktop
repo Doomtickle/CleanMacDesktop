@@ -1,7 +1,11 @@
 #!/bin/bash
 
+DIRECTORY=$(~/Desktop/Screenshots)
 # Clean desktop
 ls ~/Desktop | grep 'Screen Shot' > ~/screenshots.txt
+if [ ! -d "$DIRECTORY" ]; then
+    mkdir ~/Desktop/Screenshots
+fi
 while IFS= read -r line
 do
     mv ~/Desktop/"$line" ~/Desktop/Screenshots
