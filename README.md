@@ -20,7 +20,7 @@
 
 **Open crontab**
 
-`env EDITOR=nano crontab -e`
+`crontab -e`
 
 Add the following line and save to run it every day at 5pm
 
