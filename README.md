@@ -28,7 +28,5 @@ Add the following line and save to run it every day at 5pm
 
 **Save and Close**
 
-
-
-> For more information about how crontabs work, check out this[Geeks for Geeks guide](https://www.geeksforgeeks.org/crontab-in-linux-with-examples/)
+For more information about how crontabs work, check out this [Geeks for Geeks guide](https://www.geeksforgeeks.org/crontab-in-linux-with-examples/)
 
