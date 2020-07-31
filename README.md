@@ -1,5 +1,5 @@
 # Clean Mac Desktop
-## Get all of those screenshots off of your desktop
+Get all of those screenshots off of your desktop
 
 ### Usage
 
