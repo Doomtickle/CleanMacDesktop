@@ -1,5 +1,5 @@
 # Clean Mac Desktop
-## Quick bash script to get all of those screenshots off of your desktop
+## Get all of those screenshots off of your desktop
 
 ### Usage
 
@@ -22,7 +22,7 @@
 
 `crontab -e`
 
-Add the following line and save to run it every day at 5pm
+Add the following line to run it every day at 5pm
 
 `0 17 * * * ~/.cleandesktop`
 
