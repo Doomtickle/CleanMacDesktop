@@ -1,5 +1,7 @@
 # Clean Mac Desktop
-Get all of those screenshots off of your desktop
+Get all of those screenshots off of your desktop. I made this because I'm lazy and my desktop usually fills up with screenshots before I know what happened. 
+
+This will take all of the screenshots saved on your desktop and put them in one folder called "Screenshots". I also set it on a cron so it just runs every day after work.
 
 ### Usage
 
